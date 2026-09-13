@@ -1,73 +1,40 @@
-# Santander Automação com N8N na Prática
+# Santander — Automação com N8N na Prática
 
-Repositório desenvolvido durante o **Bootcamp Santander – Automação com N8N na Prática**, promovido pelo Santander em parceria com a DIO.
+Repositório destinado ao registro da minha participação no **Bootcamp Santander – Automação com N8N na Prática**, realizado pela **DIO em parceria com o Santander**.
 
-O curso tem como foco o desenvolvimento de **automações de processos utilizando N8N, Python, APIs, Webhooks e Inteligência Artificial**, combinando automação visual com desenvolvimento técnico.
+O repositório reúne os **desafios desenvolvidos ao longo da formação** e os **certificados obtidos durante o curso**.
 
-## 🚀 Sobre o curso
+## 📚 Sobre o Bootcamp
 
-A trilha apresenta, de forma prática, os principais conceitos necessários para construir automações e workflows capazes de integrar diferentes sistemas, processar dados e utilizar recursos de Inteligência Artificial.
+Formação prática com foco em **automação de processos**, integração de sistemas e aplicação de **Inteligência Artificial**, utilizando ferramentas e tecnologias como:
 
-Ao longo do curso são abordados conceitos de **Machine Learning, LLMs, IA Generativa e Agentes**, além da aplicação desses recursos em processos automatizados.
+* N8N
+* Python
+* APIs
+* Webhooks
+* OpenAI
+* IA Generativa
+* LLMs
+* RPA
 
-## 🧠 Conteúdos abordados
+A trilha também aborda conceitos de **Machine Learning, Engenharia de Prompts e Agentes de IA**, aplicados à construção de automações.
 
-* Fundamentos de Inteligência Artificial e IA Generativa
-* LLMs e Agentes de IA
-* Engenharia de Prompts
-* Introdução ao N8N
-* Criação e gerenciamento de workflows
-* Nós e integrações do N8N
-* Manipulação de dados e variáveis
-* APIs e Webhooks
-* Integração entre diferentes sistemas e serviços
-* Automação de processos
-* Python aplicado à automação
-* RPA (Robotic Process Automation)
-* Integração entre N8N e Inteligência Artificial
+## 📂 Conteúdo do Repositório
 
-## 🛠️ Tecnologias e ferramentas
+### 🧩 Desafios
 
-* **N8N**
-* **Python**
-* **APIs REST**
-* **Webhooks**
-* **OpenAI**
-* **Inteligência Artificial Generativa**
-* **LLMs**
-* **RPA**
+Registro dos desafios de código e projetos desenvolvidos durante o bootcamp, com o objetivo de aplicar na prática os conceitos apresentados ao longo da formação.
 
-## 📂 Estrutura
+### 🏆 Certificados
 
-O repositório reúne os exercícios, desafios, códigos e projetos desenvolvidos durante a formação, organizados de acordo com a evolução da trilha.
+Certificados referentes à conclusão do bootcamp e das atividades realizadas durante a formação.
 
-```text
-📦 santander-automacao-n8n
-├── 📁 desafios
-├── 📁 workflows
-├── 📁 python
-├── 📁 api
-├── 📁 webhooks
-└── 📄 README.md
-```
+## 🎯 Objetivo
 
-## 🎯 Projeto final
-
-Como parte da formação, é desenvolvido um processo de **RPA utilizando N8N e Python**, integrando automação visual e programação para solucionar um processo repetitivo de forma estruturada.
-
-O projeto tem como objetivo consolidar os conhecimentos adquiridos durante a trilha e demonstrar, na prática, como ferramentas de automação podem ser utilizadas para aumentar a produtividade e reduzir tarefas manuais.
-
-## 📚 Formação
-
-**Santander – Automação com N8N na Prática**
-Carga horária: **25 horas**
-Modalidade: **Online**
-Plataforma: **DIO**
-
-### Competências desenvolvidas
-
-> Automação de processos · Workflow Automation · N8N · Python · APIs · Webhooks · RPA · Inteligência Artificial · LLMs · IA Generativa · Engenharia de Prompts
+Documentar minha evolução durante a formação e manter registrado meu desenvolvimento prático em **automação, Inteligência Artificial e integração de sistemas**.
 
 ---
 
-⭐ Repositório criado para registrar minha evolução prática durante a formação e consolidar conhecimentos em **automação, integração de sistemas e Inteligência Artificial**.
+**Santander Automação com N8N na Prática**
+**DIO · Santander**
+**Carga horária: 25 horas**
