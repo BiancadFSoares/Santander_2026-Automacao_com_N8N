@@ -4,9 +4,9 @@ Repositório destinado ao registro da minha participação no **Bootcamp Santand
 
 O repositório reúne os **desafios desenvolvidos ao longo da formação** e os **certificados obtidos durante o curso**.
 
-## 📚 Sobre o Bootcamp
+## Sobre o Bootcamp
 
-Formação prática com foco em **automação de processos**, integração de sistemas e aplicação de **Inteligência Artificial**, utilizando ferramentas e tecnologias como:
+Formação prática com foco em **automação de processos**, integração de sistemas e aplicação de **Inteligência Artificial**, utilizando tecnologias como:
 
 * N8N
 * Python
@@ -19,19 +19,19 @@ Formação prática com foco em **automação de processos**, integração de si
 
 A trilha também aborda conceitos de **Machine Learning, Engenharia de Prompts e Agentes de IA**, aplicados à construção de automações.
 
-## 📂 Conteúdo do Repositório
+## Conteúdo do Repositório
 
-### 🧩 Desafios
+### Desafios
 
-Registro dos desafios de código e projetos desenvolvidos durante o bootcamp, com o objetivo de aplicar na prática os conceitos apresentados ao longo da formação.
+Registro dos desafios de código e projetos desenvolvidos durante o bootcamp, aplicando na prática os conceitos apresentados ao longo da formação.
 
-### 🏆 Certificados
+### Certificados
 
-Certificados referentes à conclusão do bootcamp e das atividades realizadas durante a formação.
+Registro dos certificados obtidos durante a formação.
 
-## 🎯 Objetivo
+## Objetivo
 
-Documentar minha evolução durante a formação e manter registrado meu desenvolvimento prático em **automação, Inteligência Artificial e integração de sistemas**.
+Documentar minha evolução durante o bootcamp e manter registrado meu desenvolvimento prático em **automação, Inteligência Artificial e integração de sistemas**.
 
 ---
 
